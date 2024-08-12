@@ -1,0 +1,16 @@
+graph TD
+    A[Revolución Rusa] --> B[Contexto]
+    A --> C[Eventos Claves]
+    A --> D[Consecuencias]
+    
+    B --> B1[Autocracia Zarista]
+    B --> B2[Desigualdades Sociales]
+    B --> B3[Impacto de la Primera Guerra Mundial]
+    
+    C --> C1[Revolución de Febrero]
+    C --> C2[Revolución de Octubre]
+    C --> C3[Guerra Civil Rusa]
+    
+    D --> D1[Establecimiento de la URSS]
+    D --> D2[Política de Guerra Comunista]
+    D --> D3[Reformas Sociales y Económicas]
